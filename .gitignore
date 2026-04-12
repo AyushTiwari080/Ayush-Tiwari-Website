@@ -27,3 +27,5 @@ dist-ssr
 backup/
 .env
 redoxchess-engine/
+public/models/character.glb
+public/models/character.enc
